@@ -264,5 +264,5 @@ The FinSight dashboard should now be running locally.
 
 # Author
 
-Developed by **Yashvin**
+Developed by **Akanksha**
 AI & Data Science Engineering Student
